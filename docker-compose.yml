@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  my_docker_app:
+    image: my_docker_app
+    container_name: my_docker_app_container_2
